@@ -1,4 +1,4 @@
-	//1
+	//1aa
 	module shell(){
 	for(i=[-20,20])rotate([0,0,i]){
 		hull(){
